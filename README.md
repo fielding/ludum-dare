@@ -15,3 +15,5 @@ I like the idea of showing the code as it was when the competition ended, to kee
 *Note: every competition has a specific theme and is listed next to the event number in my entry list*
 
 * LD26: Minimalism — [Minimid](ld26)
+
+
