@@ -1,0 +1,6 @@
+[submodule "ld26/project/Advanced-Tiled-Loader"]
+	path = ld26/project/Advanced-Tiled-Loader
+	url = https://github.com/Kadoba/Advanced-Tiled-Loader.git
+[submodule "ld26/project/hump"]
+	path = ld26/project/hump
+	url = https://github.com/vrld/hump.git
