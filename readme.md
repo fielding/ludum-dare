@@ -41,6 +41,6 @@ as it sounds, by restricting they are actually liberating.
 *Note: every competition has a specific theme and is listed next to the event
 number in my entry list*
 
-* LD26: Minimalism — [Minimid](ld26)
+* (Apr 2013) Ludum Dare 26 - Minimalism : [Minimid](ld26)
 
 
