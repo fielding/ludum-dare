@@ -1,4 +1,4 @@
-# Ludum Dare 25 Entry
+# Ludum Dare 25 - Minimalism
 
 This is my entry for
 [Ludum Dare 25](http://ludumdare.com/compo/ludum-dare-26/?action=preview),
@@ -11,6 +11,8 @@ All code and assets were created during the 48hr time limit.
 ![screenshot-about](screenshots/mm-about.png)
 ![screenshot-gameplay](screenshots/mm-playing.png)
 
+Original write up that I included with my submission at the end of the
+competition.
 
 > ### Gameplay
 >
@@ -64,13 +66,20 @@ All code and assets were created during the 48hr time limit.
 > - enter: lock -- lock on to the currently selected cube
 >
 >##### Cube Jumping
-> - w: up-left -- if an empty spot is available up-left from currently selected/locked cube, then it moves that cube there
-> - a: down-left -- if an empty spot is available down-left from currently selected/locked cube, then it moves that cube there
-> - s: down-right -- if an empty spot is available down-right from currently selected/locked cube, then it moves that cube there
-> - d: up-right -- if an empty spot is available up-right from currently selected/locked cube, then it moves that cube there
-> - q: left -- if an empty spot is available left from currently selected/locked cube, then it moves that cube there
-> - e: right -- if an empty spot is available right from currently selected/locked cube, then it moves that cube there
-> - enter: unlock -- allows you to unlock the currently locked/selected cube, so that you can select another one
+> - w: up-left -- if an empty spot is available up-left from currently
+> selected/locked cube, then it moves that cube there
+> - a: down-left -- if an empty spot is available down-left from currently
+> selected/locked cube, then it moves that cube there
+> - s: down-right -- if an empty spot is available down-right from currently
+> selected/locked cube, then it moves that cube there
+> - d: up-right -- if an empty spot is available up-right from currently
+> selected/locked cube, then it moves that cube there
+> - q: left -- if an empty spot is available left from currently
+> selected/locked cube, then it moves that cube there
+> - e: right -- if an empty spot is available right from currently
+> selected/locked cube, then it moves that cube there
+> - enter: unlock -- allows you to unlock the currently locked/selected cube,
+> so that you can select another one
 >
 > #### Interface Control:
 >
