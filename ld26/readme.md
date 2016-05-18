@@ -8,6 +8,7 @@ competition was "Minimalism" and ther were a total of 2346 entries.
 All code and assets were created during the 48hr time limit.
 
 ## Minimid
+### Screenshots
 ![screenshot-about](screenshots/mm-about.png)
 ![screenshot-gameplay](screenshots/mm-playing.png)
 
